@@ -4,3 +4,4 @@ requests
 pyrogram
 tgcrypto
 gunicorn
+python-telegram-bot==20.
